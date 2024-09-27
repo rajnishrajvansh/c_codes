@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "E:/java"
+		},
+		{
+			"path": "S:/WebDev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDev",
+		"files.associations": {
+			"*.ejs": "html",
+			"*.jsx": "javascriptreact",
+			"iostream": "cpp"
+		}
+	}
+}
